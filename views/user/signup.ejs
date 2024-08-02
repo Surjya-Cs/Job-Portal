@@ -1,0 +1,64 @@
+<%- include ('../layouts/mainLayout') %>
+
+  <!DOCTYPE html>
+  <html>
+  <title>
+    <%=page_title%>
+  </title>
+
+  <head>
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="login_body">
+        <div class="login_sec">
+
+          <div class="formheadercls">
+            <span class="headercls">Register Form</span>
+          </div>
+
+          <div class="row formcls">
+            <form action="/user/signup" method="post" enctype="multipart/form-data">
+              <label for="full_name">Name<span class="dangercls">*</span></label>
+              <input type="text" class="form-control" id="full_name" name="full_name" required>
+
+              <label for="email">Email<span class="dangercls">*</span></label>
+              <input type="email" class="form-control" id="email" name="email" required>
+
+              <label for="phone">Phone<span class="dangercls">*</span></label>
+              <input type="text" class="form-control" id="phone" name="phone" required>
+
+              <!-- <label for="country_id">Country<span class="dangercls">*</span></label>
+              <select class="form-control" id="country_id" name="country_id" required>
+                <option disabled selected>Select Country</option>
+                <%if(country_data.length > 0){%>
+                  <%for(let item of country_data){%>
+                    <option value="<%= item._id%>"><%= item.country_name%></option>
+                  <%}%>
+                <%}%>
+              </select> -->
+
+              <label for="password">Password<span class="dangercls">*</span></label>
+              <input type="password" minlength="6" class="form-control" id="password" name="password" required>
+
+              <label for="profile_pic">Profile Image</label>
+              <input type="file" class="form-control" accept="image/*" id="profile_pic" name="profile_pic"><br>
+
+              <input class="login_submit" type="submit" value="Sign Up">
+            </form>
+          </div>
+
+        </div>
+
+        <p>Already have an account? <a href="/login">Login Now!</a></p>
+
+      </div>
+
+    </div>
+
+  </body>
+
+  </html>

@@ -1,0 +1,43 @@
+<%- include ('../layouts/mainLayout') %>
+
+  <!DOCTYPE html>
+  <html>
+
+  <body>
+
+    <div class="content-wrapper">
+      <div class="container">
+
+        <div class="profile_sec">
+
+          <div class="formheadercls">
+            <span class="headercls">Create User</span>
+            <a class="btncls" href="/user/list">Back</a>
+          </div>
+
+          <div class="row formcls">
+            <form action="/user/insert" method="post" enctype="multipart/form-data">
+              <label for="full_name">Name<span class="dangercls">*</span></label>
+              <input type="text" class="form-control" id="full_name" name="full_name" required>
+
+              <label for="email">Email<span class="dangercls">*</span></label>
+              <input type="email" class="form-control" id="email" name="email" required>
+
+              <label for="phone">Phone<span class="dangercls">*</span></label>
+              <input type="text" class="form-control" id="phone" name="phone" required>
+
+              <label for="password">Password<span class="dangercls">*</span></label>
+              <input type="password" minlength="6" class="form-control" id="password" name="password" required>
+
+              <label for="profile_pic">Profile Image:</label>
+              <input type="file" class="form-control" accept="image/*" id="profile_pic" name="profile_pic"><br>
+
+              <input class="prfl_submit" type="submit" value="Submit">
+            </form>
+          </div>
+        </div>
+      </div>
+      <%- include ('../partials/footer') %>
+  </body>
+
+  </html>

@@ -1,0 +1,64 @@
+<%- include ('../layouts/mainLayout') %>
+<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+          .card{
+              margin-left: 60px;
+          }
+          
+          </style>
+          
+    </head>
+
+    <body >
+
+        <div class="content-wrapper">
+            <div class="container bg-primary">
+                <div class="profile_sec mt-10">
+                    <div class="formheadercls">
+                        <span class="headercls">
+                            Welcome <%=user_info.full_name%>
+                        </span>
+                    </div>
+
+
+                    <div class="row formcls">
+                        <form action="/user/apply" method="post" enctype="multipart/form-data">
+                            <label for="full_name">Name<span class="dangercls">*</span></label>
+                            <input type="text" class="form-control" id="full_name" name="full_name" required>
+                            <br>
+                          <label for="gmail">Gmail:<span class="dangercls">*</span></label>
+                          <input type="gmail" class="form-control" id="gmail" name="gmail" required>
+                            <br>
+                            <label for="job_id">Job_id:<span class="dangercls">*</span></label>
+                            <input type="text" class="form-control" id="job_id" name="job_id" required>
+                            <br>
+                            <label for="phone">Phone<span class="dangercls">*</span></label>
+                            <input type="text" class="form-control" id="phone" name="phone" required>
+                            <br>
+                          <label for="upload_cv">Upload Your Cv:<span class="dangercls">*</span></label>
+                          <input type="file" class="form-control" accept="image/*" id="upload_cv" name="upload_cv" required><br>
+
+                          <input class="btn apply_submit btn-outline-primary" type="submit" value="Apply">
+                          <!-- <a href="/views/user/jobs.ejs" class="btn btn-primary">See Profile</a> -->
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        <br>
+    </body>
+    <div class="container">
+        <%- include ('../partials/footer') %>
+
+    </div>
+
+    </html>

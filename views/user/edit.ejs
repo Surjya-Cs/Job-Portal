@@ -1,0 +1,47 @@
+<%- include ('../layouts/mainLayout') %>
+  <!DOCTYPE html>
+  <html>
+
+  <body>
+    <div class="content-wrapper">
+      <div class="container">
+        <div class="profile_sec">
+
+          <div class="formheadercls">
+            <span class="headercls">Edit User</span>
+            <a class="btncls" href="/user/list">Back</a>
+          </div>
+
+          <div class="row formcls">
+            <form action="/user/update" method="post" enctype="multipart/form-data">
+              <label for="fname">Name<span class="dangercls">*</span></label>
+              <input type="text" class="form-control" id="full_name" name="full_name" value="<%=user_data.full_name%>"
+                required>
+
+              <label for="email">Email<span class="dangercls">*</span></label>
+              <input type="email" class="form-control" id="email" name="email" value="<%=user_data.email%>" required>
+
+              <label for="phone">Phone<span class="dangercls">*</span></label>
+              <input type="text" class="form-control" id="phone" name="phone" value="<%=user_data.phone%>" required>
+
+              <input type="hidden" class="form-control" id="user_id" name="user_id" value="<%=user_data._id%>">
+
+              <label for="profile_pic">Profile Image:</label>
+              <input type="file" class="form-control" accept="image/*" id="profile_pic" name="profile_pic"><br>
+
+              <%if(user_data.profile_pic !=null && user_data.profile_pic !="" ){%>
+                <div class="mb-3">
+                  <img width="100px" src="/uploads/user/<%=user_data.profile_pic%>">
+                </div>
+                <%}%>
+                  <input class="prfl_submit" type="submit" value="Update">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <%- include ('../partials/footer') %>
+  </body>
+
+  </html>

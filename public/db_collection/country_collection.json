@@ -1,0 +1,4501 @@
+[{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd96"
+  },
+  "country_name": "United Arab Emirates",
+  "country_code": "AE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126677"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd95"
+  },
+  "country_name": "Andorra",
+  "country_code": "AD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126677"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd99"
+  },
+  "country_name": "Anguilla",
+  "country_code": "AI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd9a"
+  },
+  "country_name": "Albania",
+  "country_code": "AL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd9b"
+  },
+  "country_name": "Armenia",
+  "country_code": "AM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd9c"
+  },
+  "country_name": "Angola",
+  "country_code": "AO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd9d"
+  },
+  "country_name": "Antarctica",
+  "country_code": "AQ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd9e"
+  },
+  "country_name": "Argentina",
+  "country_code": "AR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd9f"
+  },
+  "country_name": "American Samoa",
+  "country_code": "AS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda0"
+  },
+  "country_name": "Austria",
+  "country_code": "AT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd97"
+  },
+  "country_name": "Afghanistan",
+  "country_code": "AF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126677"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda2"
+  },
+  "country_name": "Aruba",
+  "country_code": "AW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fd98"
+  },
+  "country_name": "Antigua and Barbuda",
+  "country_code": "AG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda4"
+  },
+  "country_name": "Azerbaijan",
+  "country_code": "AZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda5"
+  },
+  "country_name": "Bosnia and Herzegovina",
+  "country_code": "BA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda6"
+  },
+  "country_name": "Barbados",
+  "country_code": "BB",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda7"
+  },
+  "country_name": "Bangladesh",
+  "country_code": "BD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda8"
+  },
+  "country_name": "Belgium",
+  "country_code": "BE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda9"
+  },
+  "country_name": "Burkina Faso",
+  "country_code": "BF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdaa"
+  },
+  "country_name": "Bulgaria",
+  "country_code": "BG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdab"
+  },
+  "country_name": "Bahrain",
+  "country_code": "BH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdac"
+  },
+  "country_name": "Burundi",
+  "country_code": "BI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdad"
+  },
+  "country_name": "Benin",
+  "country_code": "BJ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdae"
+  },
+  "country_name": "Saint Barthélemy",
+  "country_code": "BL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdaf"
+  },
+  "country_name": "Bermuda",
+  "country_code": "BM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb0"
+  },
+  "country_name": "Brunei",
+  "country_code": "BN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb1"
+  },
+  "country_name": "Bolivia",
+  "country_code": "BO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb2"
+  },
+  "country_name": "Bonaire",
+  "country_code": "BQ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb3"
+  },
+  "country_name": "Brazil",
+  "country_code": "BR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb4"
+  },
+  "country_name": "Bahamas",
+  "country_code": "BS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb5"
+  },
+  "country_name": "Bhutan",
+  "country_code": "BT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb7"
+  },
+  "country_name": "Botswana",
+  "country_code": "BW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda1"
+  },
+  "country_name": "Australia",
+  "country_code": "AU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fda3"
+  },
+  "country_name": "Åland",
+  "country_code": "AX",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb9"
+  },
+  "country_name": "Belize",
+  "country_code": "BZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdba"
+  },
+  "country_name": "Canada",
+  "country_code": "CA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdbb"
+  },
+  "country_name": "Cocos [Keeling] Islands",
+  "country_code": "CC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdbc"
+  },
+  "country_name": "Democratic Republic of the Congo",
+  "country_code": "CD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdbe"
+  },
+  "country_name": "Republic of the Congo",
+  "country_code": "CG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdbd"
+  },
+  "country_name": "Central African Republic",
+  "country_code": "CF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdbf"
+  },
+  "country_name": "Switzerland",
+  "country_code": "CH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc0"
+  },
+  "country_name": "Ivory Coast",
+  "country_code": "CI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc1"
+  },
+  "country_name": "Cook Islands",
+  "country_code": "CK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc2"
+  },
+  "country_name": "Chile",
+  "country_code": "CL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc4"
+  },
+  "country_name": "China",
+  "country_code": "CN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc3"
+  },
+  "country_name": "Cameroon",
+  "country_code": "CM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc5"
+  },
+  "country_name": "Colombia",
+  "country_code": "CO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc6"
+  },
+  "country_name": "Costa Rica",
+  "country_code": "CR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc7"
+  },
+  "country_name": "Cuba",
+  "country_code": "CU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc8"
+  },
+  "country_name": "Cape Verde",
+  "country_code": "CV",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdca"
+  },
+  "country_name": "Christmas Island",
+  "country_code": "CX",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdc9"
+  },
+  "country_name": "Curacao",
+  "country_code": "CW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdcb"
+  },
+  "country_name": "Cyprus",
+  "country_code": "CY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdcc"
+  },
+  "country_name": "Czech Republic",
+  "country_code": "CZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdcd"
+  },
+  "country_name": "Germany",
+  "country_code": "DE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdce"
+  },
+  "country_name": "Djibouti",
+  "country_code": "DJ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd0"
+  },
+  "country_name": "Dominica",
+  "country_code": "DM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdcf"
+  },
+  "country_name": "Denmark",
+  "country_code": "DK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd1"
+  },
+  "country_name": "Dominican Republic",
+  "country_code": "DO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd2"
+  },
+  "country_name": "Algeria",
+  "country_code": "DZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd3"
+  },
+  "country_name": "Ecuador",
+  "country_code": "EC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb6"
+  },
+  "country_name": "Bouvet Island",
+  "country_code": "BV",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd5"
+  },
+  "country_name": "Egypt",
+  "country_code": "EG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd6"
+  },
+  "country_name": "Western Sahara",
+  "country_code": "EH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd7"
+  },
+  "country_name": "Eritrea",
+  "country_code": "ER",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdb8"
+  },
+  "country_name": "Belarus",
+  "country_code": "BY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd9"
+  },
+  "country_name": "Ethiopia",
+  "country_code": "ET",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdda"
+  },
+  "country_name": "Finland",
+  "country_code": "FI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fddb"
+  },
+  "country_name": "Fiji",
+  "country_code": "FJ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fddc"
+  },
+  "country_name": "Falkland Islands",
+  "country_code": "FK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fddd"
+  },
+  "country_name": "Micronesia",
+  "country_code": "FM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fddf"
+  },
+  "country_name": "France",
+  "country_code": "FR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdde"
+  },
+  "country_name": "Faroe Islands",
+  "country_code": "FO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde0"
+  },
+  "country_name": "Gabon",
+  "country_code": "GA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde1"
+  },
+  "country_name": "United Kingdom",
+  "country_code": "GB",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde2"
+  },
+  "country_name": "Grenada",
+  "country_code": "GD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde3"
+  },
+  "country_name": "Georgia",
+  "country_code": "GE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde4"
+  },
+  "country_name": "French Guiana",
+  "country_code": "GF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde5"
+  },
+  "country_name": "Guernsey",
+  "country_code": "GG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde6"
+  },
+  "country_name": "Ghana",
+  "country_code": "GH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde7"
+  },
+  "country_name": "Gibraltar",
+  "country_code": "GI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde8"
+  },
+  "country_name": "Greenland",
+  "country_code": "GL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fde9"
+  },
+  "country_name": "Gambia",
+  "country_code": "GM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdea"
+  },
+  "country_name": "Guinea",
+  "country_code": "GN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdeb"
+  },
+  "country_name": "Guadeloupe",
+  "country_code": "GP",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdec"
+  },
+  "country_name": "Equatorial Guinea",
+  "country_code": "GQ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fded"
+  },
+  "country_name": "Greece",
+  "country_code": "GR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdee"
+  },
+  "country_name": "South Georgia and the South Sandwich Islands",
+  "country_code": "GS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdef"
+  },
+  "country_name": "Guatemala",
+  "country_code": "GT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf0"
+  },
+  "country_name": "Guam",
+  "country_code": "GU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf1"
+  },
+  "country_name": "Guinea-Bissau",
+  "country_code": "GW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf2"
+  },
+  "country_name": "Guyana",
+  "country_code": "GY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf3"
+  },
+  "country_name": "Hong Kong",
+  "country_code": "HK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126685"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126685"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf4"
+  },
+  "country_name": "Heard Island and McDonald Islands",
+  "country_code": "HM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf5"
+  },
+  "country_name": "Honduras",
+  "country_code": "HN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf6"
+  },
+  "country_name": "Croatia",
+  "country_code": "HR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf7"
+  },
+  "country_name": "Haiti",
+  "country_code": "HT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf8"
+  },
+  "country_name": "Hungary",
+  "country_code": "HU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe00"
+  },
+  "country_name": "Iran",
+  "country_code": "IR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdf9"
+  },
+  "country_name": "Indonesia",
+  "country_code": "ID",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdfe"
+  },
+  "country_name": "British Indian Ocean Territory",
+  "country_code": "IO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdfa"
+  },
+  "country_name": "Ireland",
+  "country_code": "IE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdff"
+  },
+  "country_name": "Iraq",
+  "country_code": "IQ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdfd"
+  },
+  "country_name": "India",
+  "country_code": "IN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe01"
+  },
+  "country_name": "Iceland",
+  "country_code": "IS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd4"
+  },
+  "country_name": "Estonia",
+  "country_code": "EE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdfb"
+  },
+  "country_name": "Israel",
+  "country_code": "IL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdd8"
+  },
+  "country_name": "Spain",
+  "country_code": "ES",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe03"
+  },
+  "country_name": "Jersey",
+  "country_code": "JE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe04"
+  },
+  "country_name": "Jamaica",
+  "country_code": "JM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe05"
+  },
+  "country_name": "Jordan",
+  "country_code": "JO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe06"
+  },
+  "country_name": "Japan",
+  "country_code": "JP",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe08"
+  },
+  "country_name": "Kyrgyzstan",
+  "country_code": "KG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe07"
+  },
+  "country_name": "Kenya",
+  "country_code": "KE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe09"
+  },
+  "country_name": "Cambodia",
+  "country_code": "KH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe0a"
+  },
+  "country_name": "Kiribati",
+  "country_code": "KI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe0b"
+  },
+  "country_name": "Comoros",
+  "country_code": "KM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe0c"
+  },
+  "country_name": "Saint Kitts and Nevis",
+  "country_code": "KN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe0d"
+  },
+  "country_name": "North Korea",
+  "country_code": "KP",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe0e"
+  },
+  "country_name": "South Korea",
+  "country_code": "KR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe0f"
+  },
+  "country_name": "Kuwait",
+  "country_code": "KW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe10"
+  },
+  "country_name": "Cayman Islands",
+  "country_code": "KY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe11"
+  },
+  "country_name": "Kazakhstan",
+  "country_code": "KZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe12"
+  },
+  "country_name": "Laos",
+  "country_code": "LA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe13"
+  },
+  "country_name": "Lebanon",
+  "country_code": "LB",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe14"
+  },
+  "country_name": "Saint Lucia",
+  "country_code": "LC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe15"
+  },
+  "country_name": "Liechtenstein",
+  "country_code": "LI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fdfc"
+  },
+  "country_name": "Isle of Man",
+  "country_code": "IM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126686"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe17"
+  },
+  "country_name": "Liberia",
+  "country_code": "LR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe18"
+  },
+  "country_name": "Lesotho",
+  "country_code": "LS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe19"
+  },
+  "country_name": "Lithuania",
+  "country_code": "LT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe1a"
+  },
+  "country_name": "Luxembourg",
+  "country_code": "LU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe1b"
+  },
+  "country_name": "Latvia",
+  "country_code": "LV",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe1c"
+  },
+  "country_name": "Libya",
+  "country_code": "LY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe1e"
+  },
+  "country_name": "Monaco",
+  "country_code": "MC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe1d"
+  },
+  "country_name": "Morocco",
+  "country_code": "MA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe1f"
+  },
+  "country_name": "Moldova",
+  "country_code": "MD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe20"
+  },
+  "country_name": "Montenegro",
+  "country_code": "ME",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe21"
+  },
+  "country_name": "Saint Martin",
+  "country_code": "MF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe22"
+  },
+  "country_name": "Madagascar",
+  "country_code": "MG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe23"
+  },
+  "country_name": "Marshall Islands",
+  "country_code": "MH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe24"
+  },
+  "country_name": "Macedonia",
+  "country_code": "MK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe25"
+  },
+  "country_name": "Mali",
+  "country_code": "ML",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe26"
+  },
+  "country_name": "Myanmar [Burma]",
+  "country_code": "MM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe27"
+  },
+  "country_name": "Mongolia",
+  "country_code": "MN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe28"
+  },
+  "country_name": "Macao",
+  "country_code": "MO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe29"
+  },
+  "country_name": "Northern Mariana Islands",
+  "country_code": "MP",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe2a"
+  },
+  "country_name": "Martinique",
+  "country_code": "MQ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe2b"
+  },
+  "country_name": "Mauritania",
+  "country_code": "MR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe2c"
+  },
+  "country_name": "Montserrat",
+  "country_code": "MS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe2d"
+  },
+  "country_name": "Malta",
+  "country_code": "MT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe2e"
+  },
+  "country_name": "Mauritius",
+  "country_code": "MU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe2f"
+  },
+  "country_name": "Maldives",
+  "country_code": "MV",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe30"
+  },
+  "country_name": "Malawi",
+  "country_code": "MW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe31"
+  },
+  "country_name": "Mexico",
+  "country_code": "MX",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe32"
+  },
+  "country_name": "Malaysia",
+  "country_code": "MY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe33"
+  },
+  "country_name": "Mozambique",
+  "country_code": "MZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe34"
+  },
+  "country_name": "Namibia",
+  "country_code": "NA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe35"
+  },
+  "country_name": "New Caledonia",
+  "country_code": "NC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe36"
+  },
+  "country_name": "Niger",
+  "country_code": "NE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe37"
+  },
+  "country_name": "Norfolk Island",
+  "country_code": "NF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe38"
+  },
+  "country_name": "Nigeria",
+  "country_code": "NG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe02"
+  },
+  "country_name": "Italy",
+  "country_code": "IT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe3a"
+  },
+  "country_name": "Netherlands",
+  "country_code": "NL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe3b"
+  },
+  "country_name": "Norway",
+  "country_code": "NO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe3c"
+  },
+  "country_name": "Nepal",
+  "country_code": "NP",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe3d"
+  },
+  "country_name": "Nauru",
+  "country_code": "NR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe3e"
+  },
+  "country_name": "Niue",
+  "country_code": "NU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe3f"
+  },
+  "country_name": "New Zealand",
+  "country_code": "NZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe40"
+  },
+  "country_name": "Oman",
+  "country_code": "OM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe42"
+  },
+  "country_name": "Peru",
+  "country_code": "PE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe41"
+  },
+  "country_name": "Panama",
+  "country_code": "PA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe43"
+  },
+  "country_name": "French Polynesia",
+  "country_code": "PF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe44"
+  },
+  "country_name": "Papua New Guinea",
+  "country_code": "PG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe45"
+  },
+  "country_name": "Philippines",
+  "country_code": "PH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe46"
+  },
+  "country_name": "Pakistan",
+  "country_code": "PK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe47"
+  },
+  "country_name": "Poland",
+  "country_code": "PL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe48"
+  },
+  "country_name": "Saint Pierre and Miquelon",
+  "country_code": "PM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe49"
+  },
+  "country_name": "Pitcairn Islands",
+  "country_code": "PN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe4a"
+  },
+  "country_name": "Puerto Rico",
+  "country_code": "PR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe4b"
+  },
+  "country_name": "Palestine",
+  "country_code": "PS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe4c"
+  },
+  "country_name": "Portugal",
+  "country_code": "PT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe4d"
+  },
+  "country_name": "Palau",
+  "country_code": "PW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe4e"
+  },
+  "country_name": "Paraguay",
+  "country_code": "PY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe4f"
+  },
+  "country_name": "Qatar",
+  "country_code": "QA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe50"
+  },
+  "country_name": "Réunion",
+  "country_code": "RE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe51"
+  },
+  "country_name": "Romania",
+  "country_code": "RO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe16"
+  },
+  "country_name": "Sri Lanka",
+  "country_code": "LK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe5f"
+  },
+  "country_name": "Sierra Leone",
+  "country_code": "SL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe55"
+  },
+  "country_name": "Saudi Arabia",
+  "country_code": "SA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe5b"
+  },
+  "country_name": "Saint Helena",
+  "country_code": "SH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe58"
+  },
+  "country_name": "Sudan",
+  "country_code": "SD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe59"
+  },
+  "country_name": "Sweden",
+  "country_code": "SE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe54"
+  },
+  "country_name": "Rwanda",
+  "country_code": "RW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe5e"
+  },
+  "country_name": "Slovakia",
+  "country_code": "SK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe56"
+  },
+  "country_name": "Solomon Islands",
+  "country_code": "SB",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe5a"
+  },
+  "country_name": "Singapore",
+  "country_code": "SG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe5d"
+  },
+  "country_name": "Svalbard and Jan Mayen",
+  "country_code": "SJ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe57"
+  },
+  "country_name": "Seychelles",
+  "country_code": "SC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe5c"
+  },
+  "country_name": "Slovenia",
+  "country_code": "SI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe53"
+  },
+  "country_name": "Russia",
+  "country_code": "RU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe60"
+  },
+  "country_name": "San Marino",
+  "country_code": "SM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe62"
+  },
+  "country_name": "Somalia",
+  "country_code": "SO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe61"
+  },
+  "country_name": "Senegal",
+  "country_code": "SN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe63"
+  },
+  "country_name": "Suriname",
+  "country_code": "SR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe64"
+  },
+  "country_name": "South Sudan",
+  "country_code": "SS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe66"
+  },
+  "country_name": "El Salvador",
+  "country_code": "SV",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe67"
+  },
+  "country_name": "Sint Maarten",
+  "country_code": "SX",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe65"
+  },
+  "country_name": "São Tomé and Príncipe",
+  "country_code": "ST",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe6a"
+  },
+  "country_name": "Turks and Caicos Islands",
+  "country_code": "TC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe68"
+  },
+  "country_name": "Syria",
+  "country_code": "SY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe69"
+  },
+  "country_name": "Swaziland",
+  "country_code": "SZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe6b"
+  },
+  "country_name": "Chad",
+  "country_code": "TD",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe6c"
+  },
+  "country_name": "French Southern Territories",
+  "country_code": "TF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe39"
+  },
+  "country_name": "Nicaragua",
+  "country_code": "NI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe6e"
+  },
+  "country_name": "Thailand",
+  "country_code": "TH",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe6f"
+  },
+  "country_name": "Tajikistan",
+  "country_code": "TJ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe71"
+  },
+  "country_name": "East Timor",
+  "country_code": "TL",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe70"
+  },
+  "country_name": "Tokelau",
+  "country_code": "TK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe72"
+  },
+  "country_name": "Turkmenistan",
+  "country_code": "TM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe73"
+  },
+  "country_name": "Tunisia",
+  "country_code": "TN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe74"
+  },
+  "country_name": "Tonga",
+  "country_code": "TO",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe75"
+  },
+  "country_name": "Turkey",
+  "country_code": "TR",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe77"
+  },
+  "country_name": "Tuvalu",
+  "country_code": "TV",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe78"
+  },
+  "country_name": "Taiwan",
+  "country_code": "TW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe76"
+  },
+  "country_name": "Trinidad and Tobago",
+  "country_code": "TT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe7a"
+  },
+  "country_name": "Ukraine",
+  "country_code": "UA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe79"
+  },
+  "country_name": "Tanzania",
+  "country_code": "TZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe52"
+  },
+  "country_name": "Serbia",
+  "country_code": "RS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe7c"
+  },
+  "country_name": "U.S. Minor Outlying Islands",
+  "country_code": "UM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe7e"
+  },
+  "country_name": "Uruguay",
+  "country_code": "UY",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe7d"
+  },
+  "country_name": "United States",
+  "country_code": "US",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe80"
+  },
+  "country_name": "Vatican City",
+  "country_code": "VA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe7f"
+  },
+  "country_name": "Uzbekistan",
+  "country_code": "UZ",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe81"
+  },
+  "country_name": "Saint Vincent and the Grenadines",
+  "country_code": "VC",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe82"
+  },
+  "country_name": "Venezuela",
+  "country_code": "VE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe83"
+  },
+  "country_name": "British Virgin Islands",
+  "country_code": "VG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe84"
+  },
+  "country_name": "U.S. Virgin Islands",
+  "country_code": "VI",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe86"
+  },
+  "country_name": "Vanuatu",
+  "country_code": "VU",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe85"
+  },
+  "country_name": "Vietnam",
+  "country_code": "VN",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe87"
+  },
+  "country_name": "Wallis and Futuna",
+  "country_code": "WF",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe88"
+  },
+  "country_name": "Samoa",
+  "country_code": "WS",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe89"
+  },
+  "country_name": "Kosovo",
+  "country_code": "XK",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe8a"
+  },
+  "country_name": "Yemen",
+  "country_code": "YE",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe8b"
+  },
+  "country_name": "Mayotte",
+  "country_code": "YT",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe8d"
+  },
+  "country_name": "Zambia",
+  "country_code": "ZM",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe8c"
+  },
+  "country_name": "South Africa",
+  "country_code": "ZA",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe8e"
+  },
+  "country_name": "Zimbabwe",
+  "country_code": "ZW",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe6d"
+  },
+  "country_name": "Togo",
+  "country_code": "TG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6348e70e2db8b2557793fe7b"
+  },
+  "country_name": "Uganda",
+  "country_code": "UG",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665722126696"
+    }
+  }
+}]

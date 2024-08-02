@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "6342c5d1aecdaeae0ce7c45b"
+  },
+  "full_name": "Test User",
+  "email": "john.002@yopmail.com",
+  "phone": "3452345345",
+  "profile_pic": "profile_pic_1665324818766_22-223910_circle-user-png-icon-transparent-png.png",
+  "password": "$2b$08$CY.S1KhgIC5SEWCK3iIjteknvBPKs8031lRarRgG73ZlPqwClm2QW",
+  "status": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665320401389"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665408644515"
+    }
+  },
+  "isDeleted": false,
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "6342c735fb5b4c867db74134"
+  },
+  "full_name": "John Smith",
+  "email": "john.02@yopmail.com",
+  "phone": "3452345",
+  "profile_pic": "profile_pic_1665320757095_pexels-lukas-kloeppel-466685.jpg",
+  "password": "$2b$08$d.wjG9oZb5q86Aztdgbkiu7CRz7Y75p2t7SozP7O4UN6xG6qFz8Zq",
+  "status": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665320757176"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665408317479"
+    }
+  },
+  "isDeleted": false,
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "6342d7463df22d1545664204"
+  },
+  "full_name": "Isabela Smith",
+  "email": "isa@yopmail.com",
+  "phone": "2345234525",
+  "profile_pic": "profile_pic_1665324870280_seller.jpeg",
+  "password": "$2b$08$2Tw2L0gsvf3ea0L9ET.noOUQGnP8FGJentcNV0HEcYVWGnH6q7Yba",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665324870309"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665408321142"
+    }
+  },
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "6342da7a88929d29eb8b44bc"
+  },
+  "full_name": "Mark",
+  "email": "mark.seller@yopmail.com",
+  "phone": "2345234525",
+  "profile_pic": "profile_pic_1665325690551_tst_3.jpg",
+  "password": "$2b$08$Mk0iXKhxE5o4gns0LayjfOlnO9FgMnwHpjZ1.lIs7KYvoEaBqwwoy",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665325690586"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665408324658"
+    }
+  },
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "6342ffe12e1912e8fab5a606"
+  },
+  "full_name": "Hello User",
+  "email": "john.03@yopmail.com",
+  "phone": "2345234525",
+  "profile_pic": "profile_pic_1665335265041_pexels-elias-tigiser-1083342.jpg",
+  "password": "$2b$08$Js5/nRYMnYOpbkeNt.cVwexfsjnyPjNzhNPHtiEQRZRrwSs4bd01K",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665335265087"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665408328679"
+    }
+  },
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "634305cfd041576b674f4980"
+  },
+  "full_name": "Test",
+  "email": "john.buyer@yopmail.com",
+  "phone": "3452345",
+  "password": "$2b$08$JHP7uF/iYKvE4SIwNxofx.Kg12dxyfAwJ3mStuqIhHRT22VbdX0jq",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665336783986"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665408332654"
+    }
+  },
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "63441d8bfc5460f2e49a3daa"
+  },
+  "full_name": "Super Admin",
+  "email": "admin@yopmail.com",
+  "phone": "3452345",
+  "profile_pic": "profile_pic_1665408395680_User_Circle.png",
+  "password": "$2b$08$eeoI8BJGcBRW4sm0Ukx4JehLu/yq.rh02Gf18azjqG.2TJV.qP7Ha",
+  "role": "admin",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665408395713"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665412213804"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63441f430c40445e9708947d"
+  },
+  "full_name": "John",
+  "email": "john004@yopmail.com",
+  "phone": "2345234525",
+  "profile_pic": "profile_pic_1665408835755_T0606.png",
+  "password": "$2b$08$/YCH3pNPsRXXfri6V.hvqOBlor1rizGqLkMT/vfWDMZKFYMSw0Dg2",
+  "role": "user",
+  "status": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665408835798"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665413344445"
+    }
+  }
+}]
